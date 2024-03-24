@@ -1,0 +1,14 @@
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\bin\Debug\net8.0\Praktik_4.exe
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\bin\Debug\net8.0\Praktik_4.deps.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\bin\Debug\net8.0\Praktik_4.runtimeconfig.json
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\bin\Debug\net8.0\Praktik_4.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\bin\Debug\net8.0\Praktik_4.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.AssemblyInfoInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.AssemblyInfo.cs
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.csproj.CoreCompileInputs.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\refint\Praktik_4.dll
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.pdb
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\Praktik_4.genruntimeconfig.cache
+C:\Users\spere\Documents\MyPythonProjects\Program language\Praktik\Praktik_4\obj\Debug\net8.0\ref\Praktik_4.dll
